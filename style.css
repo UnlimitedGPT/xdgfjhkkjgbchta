@@ -63,12 +63,12 @@ textarea {
 }
 
 .h1-top {
-  display: flex;
-  justify-content: center;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-size: 50px;
-  font-family: inherit;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 50px;
+    font-family: inherit;
 }
 
 .p-top {
@@ -84,3 +84,10 @@ textarea {
   font-weight: bold;
 }
 
+.coffee{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    zoom: 85%;
+
+}
